@@ -4,7 +4,7 @@ function getUrl(info) {
 
 function woofifyIt(info) {
   if (getUrl(info)) {
-    window.open('http://woofmaker.com/url='+escape(getUrl(info)))
+    window.open('http://woofmaker.com/?url='+getUrl(info))
   }
 }
 
