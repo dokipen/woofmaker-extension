@@ -1,6 +1,6 @@
 { "name": "Woofmaker"
 , "description": "Send any image to woofmaker.com"
-, "version": "0.1"
+, "version": "0.2"
 , "manifest_version": 2
 , "icons":
   { "16": "16.png"
